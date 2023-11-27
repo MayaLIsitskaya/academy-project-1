@@ -1,0 +1,13 @@
+.footer_container {
+  background-color: $color-gray;
+  display: flex;
+  justify-content: space-around;
+  padding: $p-1 0.5rem;
+}
+
+.footer_bottom {
+  background-color: $color-green-darken;
+  padding: $p-1;
+  color: $color-white;
+  font-size: $font-12;
+}

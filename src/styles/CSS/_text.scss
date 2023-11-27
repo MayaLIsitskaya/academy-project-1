@@ -1,0 +1,26 @@
+.info {
+  background-color: $color-link-hover;
+
+  text-align: center;
+  color: $color-white;
+  font-size: $font-12;
+
+  padding: 0.5rem ;
+}
+
+.section_info_description {
+  color: $color-link-hover;
+  font-size: $font-12;
+}
+
+.option_info {
+  font-size: $font-12;
+  padding-bottom: $p-2;
+}
+
+.rules {
+  font-size: $font-12;
+  color: $color-link-hover;
+  padding-bottom: $p-1;
+}
+

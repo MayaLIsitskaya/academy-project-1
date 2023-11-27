@@ -1,0 +1,22 @@
+{
+  "name": "academy-project-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MayaLIsitskaya/academy-project-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayaLIsitskaya/academy-project-1/issues"
+  },
+  "homepage": "https://github.com/MayaLIsitskaya/academy-project-1#readme",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}

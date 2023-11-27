@@ -1,0 +1,9 @@
+.product_image {
+  padding: $p-1;
+  transition: all 0.5s;
+}
+
+.product_image:hover {
+  cursor: pointer;
+  box-shadow: 0 6px 5px $color-shadow;
+}

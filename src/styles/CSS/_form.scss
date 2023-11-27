@@ -1,0 +1,46 @@
+.section_form {
+  background-color: $color-link-hover;
+  border-radius: 10px;
+
+  color: $color-white;
+  font-size: $font-12;
+  text-align: center;
+
+  margin-left: 26rem;
+  margin-bottom: $m-3;
+  width: 30%;
+}
+
+.field {
+  width: 90%;
+  padding: 0.5rem  0.5rem;
+  margin: $m-1 0;
+
+  cursor: pointer;
+  outline: none;
+
+  color: $color-white;
+  background-color: $color-form-color;
+  border: 1px solid $color-form-color;
+  border-radius: 10px;
+
+  font-size: 12px;
+  transition: all  0.3s;
+}
+
+.field:hover {
+  opacity: 0.8
+}
+
+.form_greeting {
+  padding-top: $p-1;
+}
+
+.form_instruction {
+  margin-bottom: $m-1;
+}
+
+.form_greeting,
+.form_instruction {
+  font-weight: $f-w-600;
+}

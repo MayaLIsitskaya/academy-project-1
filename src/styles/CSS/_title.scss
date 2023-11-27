@@ -1,0 +1,27 @@
+.section_title {
+  color: $color-link-hover;
+  text-decoration: line-through;
+  margin-top: $m-1;
+  padding-top: $p-1;
+  padding-bottom: $p-1;
+
+}
+
+.section_info_head {
+  padding-top:$p-1;
+  padding-bottom: $p-1;
+  color: $color-link-hover;
+}
+
+.product_title {
+  padding-top: $p-1;
+  padding-bottom: $p-1;
+}
+
+.title {
+  text-align: center;
+  color: $color-white;
+  padding-bottom: $p-1;
+
+  font-size: $font-22;
+}

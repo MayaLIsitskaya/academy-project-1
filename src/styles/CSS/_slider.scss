@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+.swiper {
+  cursor: pointer;
+  margin: auto;
+  font-size: $font-12;
+}
+
+.products {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.product img {
+  border-radius: 50%;
+}
+
+.product {
+  position: relative;
+  width: calc(100% / 4);
+  margin: 1rem;
+  background-color: $color-white-darken;
+  border-radius: 1rem;
+
+  color: $color-link-hover;
+  text-align: center;
+  padding: $p-3 $p-2;
+}
+
+.swiper .swiper-button-next {
+  color:$color-link-hover;
+}
+
+.swiper .swiper-button-prev {
+  color: $color-link-hover;
+}

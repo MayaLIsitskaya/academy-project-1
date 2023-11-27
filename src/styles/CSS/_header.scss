@@ -1,0 +1,15 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+.header_inner {
+  background-color: $color-green-darken;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: $p-1 0.5rem;
+}
